@@ -1,4 +1,4 @@
-# Шnteract with SolvBTC
+# Interact with SolvBTC
 
 ## 1. Getting Reserve Status
 
